@@ -300,6 +300,12 @@
     background:black;
     color:var(--yellow);
     }
+    .cta-btn,
+    .cta-btn:visited,
+    .cta-btn:hover {
+    color: black;
+    text-decoration: none;
+    }
      
     /* About */
      
